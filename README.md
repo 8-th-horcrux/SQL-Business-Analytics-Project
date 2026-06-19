@@ -1,4 +1,4 @@
-Advanced SQL Business Analytics 
+*Advanced SQL Business Analytics 
 MySQL, CTEs, Window Functions, Data Warehousing
 
 • Designed and analyzed a retail sales data warehouse using star schema architecture comprising fact and dimension tables.
